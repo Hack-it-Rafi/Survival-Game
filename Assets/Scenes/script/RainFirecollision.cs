@@ -1,7 +1,8 @@
 using UnityEngine;
 
 public class RainFirecollision: MonoBehaviour
-{public GameObject firePrefab;
+{
+    public GameObject firePrefab;
     public ParticleSystem rainParticleSystem;
     public float speed = 5f;
 

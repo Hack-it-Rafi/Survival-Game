@@ -12,6 +12,7 @@ TagManager:
   - HealthBar
   - Text
   - RainControl
+  - Object1
   layers:
   - Default
   - TransparentFX
